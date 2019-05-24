@@ -3,6 +3,12 @@
 GitHub Pages機能を使って公開されたページは[こちら](https://elmas3.github.io/mao-seminar/)から閲覧できます。
 https://elmas3.github.io/mao-seminar/
 
+# イカれたメンバー
+氷室京介
+布袋寅泰
+松井常松
+高橋まこと
+
 # ディレクトリ構成
 ```
 seminar/
